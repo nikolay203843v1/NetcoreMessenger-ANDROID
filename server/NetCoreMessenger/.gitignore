@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.db
+*.db-journal
+private_key.pem
+public_key.pem
+firebase-service-account.json
+plan_NOTPRODUCT/
+orchestration_NOTPRODUCT/
