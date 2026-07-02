@@ -45,6 +45,22 @@
 4. **Защита и безопасность (JWT + RSA):** Все сессии пользователей зашифрованы криптографическими ключами.
 
 ## 🚀 Статус проекта
-Проект находится на стадии рабочего состояния, возможно имеются проблемы с кибербезопасность - я это налегке допускаю, т.к проект покачто в проде не используется.
+Проект находится на стадии рабочего состояния, возможно имеются проблемы с кибербезопасность - я это вполне допускаю, т.к проект покачто в проде не используется.
 
 > *Скриншоты интерфейса:*
+<img width="576" height="1280" alt="photo_15_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/f5c1de13-5cf7-4b89-83be-9f4647266c0d" />
+<img width="576" height="1280" alt="photo_14_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/22552f84-e64b-4ef0-83ce-ecd108d5f0e3" />
+<img width="576" height="1280" alt="photo_13_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/d294a994-aa11-4b2a-ab1f-16cdbbba5eaa" />
+<img width="576" height="1280" alt="photo_12_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/ba8b7923-80fd-48c2-9d54-b7722d8ba18f" />
+<img width="576" height="1280" alt="photo_11_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/41af5099-4e6d-4f39-8e58-5bbb10c1fec3" />
+<img width="576" height="1280" alt="photo_10_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/59c9d218-36cf-4c85-8a3b-2b09938a0a8e" />
+<img width="576" height="1280" alt="photo_9_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/6dc2e777-02b0-4b9e-a2a8-ff29d3741c42" />
+<img width="634" height="1280" alt="photo_8_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/affef7be-e3d5-4ef5-b819-d31451e515c1" />
+<img width="576" height="1280" alt="photo_7_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/b3050a86-e7fb-4cfc-8629-4331bf0f23c0" />
+<img width="576" height="1280" alt="photo_6_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/fe831b70-2c88-4ac4-bd09-9d5f7f1bb01e" />
+<img width="630" height="1280" alt="photo_5_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/07a67058-9064-40a1-948b-1386285164d1" />
+<img width="576" height="1280" alt="photo_4_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/b0c2a70c-c937-48dd-b4ee-82c8431b47b9" />
+<img width="576" height="1280" alt="photo_3_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/2ca879fe-c815-4322-8d95-6f7215fb34f8" />
+<img width="576" height="1280" alt="photo_2_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/8a5ff41b-c6eb-4e15-812b-5cd5319eb9cd" />
+<img width="642" height="1280" alt="photo_1_2026-07-02_21-04-45" src="https://github.com/user-attachments/assets/ca13b56a-304e-4a19-acfd-305a6b18f5b2" />
+<img width="642" height="1280" alt="photo_1_2026-07-02_21-03-28" src="https://github.com/user-attachments/assets/fa66d2af-0015-459f-ac64-dd655ccdc24d" />
